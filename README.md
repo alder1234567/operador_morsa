@@ -1,0 +1,5 @@
+**operadores logicos**
+
+* en operador que permite asignar a un valor una variable mientras se evalúa como expresión. Se escribe como :=. Este operador fue introducido en la versión de Python 3.8, su título PEP es «assignment expressions», en español, expresión de asignación.
+
+* La comunidad de desarrolladores Python lo nombró como «walrus operator», ya que «walrus», en inglés, es morsa y su escritura es similar a la cara de una morsa. Iremos a la terminal de Python, para ello, escribimos python en la terminal o command prompt, y aquí, vamos a crear una variable llamada suma, a la que le vamos a asignar 2 + 3. Esto no nos dará o imprimirá un resultado, sin embargo, el resultado se almacena en la variable creada. Podemos llamarla escribiendo «suma» nuevamente y aquí vamos a ver el resultado. Si escribimos la suma directamente como 2 + 3, obtendremos el resultado inmediatamente, pero no podremos acceder a este valor nuevamente, ya que no fue guardado. 
